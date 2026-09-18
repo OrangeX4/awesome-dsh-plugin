@@ -1,0 +1,6 @@
+url: https://github.com/tylina/dsh-tylina
+name: tylina/dsh-tylina
+category: docs
+description:
+  en: 'Typst document editor for DeepSeek Harness with typeset-page editing, PDF export, and visual or editable PowerPoint export.'
+  zh: 'DeepSeek Harness 中的 Typst 文档编辑器：直接编辑排版页面，并导出 PDF、视觉保真或实验性可编辑 PowerPoint。'
