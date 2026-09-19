@@ -1,5 +1,5 @@
-url: https://github.com/tylina/dsh-tylina
-name: tylina/dsh-tylina
+url: https://github.com/tylina/dsh-tylina/tree/main/bundle-wasm
+name: tylina/dsh-tylina#bundle-wasm
 category: docs
 description:
   en: 'A WYSIWYG Typst editor for papers, reports, exams, resumes, charts, posters, sheet music, and slides exported as PPTX.'
